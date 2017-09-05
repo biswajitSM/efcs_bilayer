@@ -1,4 +1,5 @@
 *.aux
+*.ps
 *.pdf
 *.tps
 *.blg
@@ -15,3 +16,5 @@
 #project files
 *.sublime-project
 *.sublime-workspace
+#article files...
+acs-efcs.bib
