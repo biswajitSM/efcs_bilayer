@@ -1,0 +1,17 @@
+*.aux
+*.pdf
+*.tps
+*.blg
+*.bbl
+*.tcp
+*.dvi
+*.log
+*.out
+*.gz
+*.bak
+*.toc
+*.fdb_latexmk
+*.fls
+#project files
+*.sublime-project
+*.sublime-workspace
